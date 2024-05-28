@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/DonutLLMCore.py
+src/DonutLLMCore.egg-info/PKG-INFO
+src/DonutLLMCore.egg-info/SOURCES.txt
+src/DonutLLMCore.egg-info/dependency_links.txt
+src/DonutLLMCore.egg-info/requires.txt
+src/DonutLLMCore.egg-info/top_level.txt

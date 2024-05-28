@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+dill
+
+[dev]
+black
+bumpver
+isort
+pip-tools
+pytest
